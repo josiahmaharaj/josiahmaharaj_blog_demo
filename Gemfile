@@ -12,6 +12,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'pygments.rb', '~> 0.6.0'
 gem 'redcarpet', '~> 3.3.3'
+gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 group :development, :test do
 	gem 'byebug'
